@@ -7,14 +7,20 @@ const imageAltText = "purple and blue abstract background";
 
   const educationData = [
     {
-        school: "Harvard University",
-        degree: "Bachelor of Science in Computer Science",
-        year: "2015 - 2019"
+      school: "WEST BENGAL BOARD OF SECONDARY EDUCATION board",
+      degree: "Secondary (X)",
+      year: "2018 - 2019"
+  },
+    {
+        school: "All India Council For Technical Education (AICTE)",
+        degree: "Diploma, Computer Science & Engineering",
+        year: "2019 - 2021"
     },
     {
-        school: "MIT",
-        degree: "Master of Science in Artificial Intelligence",
-        year: "2019 - 2021"
+        school: "Maulana Abul Kalam Azad University Of Technology, West Bengal",
+        degree: "Bachelor of Technology (B.Tech), Computer Science & Engineering",
+
+        year: "2021 - 2023"
     }
   ];
 const Education = () => {
